@@ -1,0 +1,10 @@
+{
+    "name": "auth-ad",
+    "description": "Meteor authorization through ActiveDirectory",
+    "homepage": "",
+    "author": "Mikhail Sukhotin <sukhotin.mikhail@gmail.com>",
+    "version": "0.0.1",
+    "git": "",
+    "packages": {
+    }
+}
